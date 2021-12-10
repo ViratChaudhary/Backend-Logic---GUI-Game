@@ -1,1 +1,1 @@
-# Backend-Logic---GUI-Game
+# Backend-Logic for GUI-Game
